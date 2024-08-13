@@ -1,0 +1,14 @@
+C:\Users\ERALP\Desktop\algorithms\Carpim\Carpim\bin\Debug\net8.0\Carpim.exe
+C:\Users\ERALP\Desktop\algorithms\Carpim\Carpim\bin\Debug\net8.0\Carpim.deps.json
+C:\Users\ERALP\Desktop\algorithms\Carpim\Carpim\bin\Debug\net8.0\Carpim.runtimeconfig.json
+C:\Users\ERALP\Desktop\algorithms\Carpim\Carpim\bin\Debug\net8.0\Carpim.dll
+C:\Users\ERALP\Desktop\algorithms\Carpim\Carpim\bin\Debug\net8.0\Carpim.pdb
+C:\Users\ERALP\Desktop\algorithms\Carpim\Carpim\obj\Debug\net8.0\Carpim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERALP\Desktop\algorithms\Carpim\Carpim\obj\Debug\net8.0\Carpim.AssemblyInfoInputs.cache
+C:\Users\ERALP\Desktop\algorithms\Carpim\Carpim\obj\Debug\net8.0\Carpim.AssemblyInfo.cs
+C:\Users\ERALP\Desktop\algorithms\Carpim\Carpim\obj\Debug\net8.0\Carpim.csproj.CoreCompileInputs.cache
+C:\Users\ERALP\Desktop\algorithms\Carpim\Carpim\obj\Debug\net8.0\Carpim.dll
+C:\Users\ERALP\Desktop\algorithms\Carpim\Carpim\obj\Debug\net8.0\refint\Carpim.dll
+C:\Users\ERALP\Desktop\algorithms\Carpim\Carpim\obj\Debug\net8.0\Carpim.pdb
+C:\Users\ERALP\Desktop\algorithms\Carpim\Carpim\obj\Debug\net8.0\Carpim.genruntimeconfig.cache
+C:\Users\ERALP\Desktop\algorithms\Carpim\Carpim\obj\Debug\net8.0\ref\Carpim.dll
